@@ -1,5 +1,2 @@
 telebot
-subprocess
-requests
-datetime
-os
+
